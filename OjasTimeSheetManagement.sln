@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OjasTimeSheetManagement", "OjasTimeSheetManagement\OjasTimeSheetManagement.csproj", "{FACA8A6A-1F8F-4735-B455-335A87B58AE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OjasTimeSheetManagement.Concrete", "OjasTimeSheetManagement.Concrete\OjasTimeSheetManagement.Concrete.csproj", "{332BA49B-22DC-43D0-9CC0-2607233A55AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OjasTimeSheetManagemt.Interface", "OjasTimeSheetManagemt.Interface\OjasTimeSheetManagemt.Interface.csproj", "{2BAACF1A-D209-48EA-A4DA-93516573261D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OjasTimeSheetManagement.Models", "OjasTimeSheetManagement.Models\OjasTimeSheetManagement.Models.csproj", "{37355CB0-EF70-4E62-9647-2FD0F40CFA19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FACA8A6A-1F8F-4735-B455-335A87B58AE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FACA8A6A-1F8F-4735-B455-335A87B58AE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FACA8A6A-1F8F-4735-B455-335A87B58AE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FACA8A6A-1F8F-4735-B455-335A87B58AE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{332BA49B-22DC-43D0-9CC0-2607233A55AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{332BA49B-22DC-43D0-9CC0-2607233A55AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{332BA49B-22DC-43D0-9CC0-2607233A55AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{332BA49B-22DC-43D0-9CC0-2607233A55AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BAACF1A-D209-48EA-A4DA-93516573261D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BAACF1A-D209-48EA-A4DA-93516573261D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BAACF1A-D209-48EA-A4DA-93516573261D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BAACF1A-D209-48EA-A4DA-93516573261D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37355CB0-EF70-4E62-9647-2FD0F40CFA19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37355CB0-EF70-4E62-9647-2FD0F40CFA19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37355CB0-EF70-4E62-9647-2FD0F40CFA19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37355CB0-EF70-4E62-9647-2FD0F40CFA19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF0D9088-88C4-4D25-B056-67E52F301AB5}
+	EndGlobalSection
+EndGlobal
